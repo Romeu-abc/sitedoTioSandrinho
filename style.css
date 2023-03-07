@@ -1,4 +1,78 @@
-#contact iframe
+body{
+    text-align: center;
+    background-color: rgb(210, 233, 233);
+    background-position: center;
+    background-size: cover;
+}
+
+.perfumes
 {
+    border: 1px solid lightgrey;
+}
+
+.perfumes img
+{
+  width: 50%;
+}
+
+.perfumes h5 , .perfumes p
+{
+margin: 20px;
+}
+#perfumes{
+    font-size: 35px;
+    color: black; 
+}
+.descricao{
+    font-size: 25px;
+    color: black; 
+}
+.pg{
+  font-size: 25px;
+  color: black; 
+}
+.pg2{
+  font-size: 25px;
+  color: black; 
+}
+.desc{
+  font-size: 25px;
+  color: black;
+}
+.p1{
+  font-size: 25px;
+  color: black;
+}
+.pedidos1{
+  font-size: 25px;
+  color: rgb(167, 231, 16);
+}
+
+.videosHead
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.videosHead i
+{
+  float: right;
+}
+
+.videosText span
+{
+  color: orange;
+}
+
+#pedidos
+{
+    color: blueviolet;
+    background-color: black;
     width: 100%;
 }
+
+
+
+
